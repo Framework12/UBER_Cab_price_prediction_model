@@ -51,7 +51,7 @@ You can install these dependencies using the provided `requirements.txt` file.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/cab-price-prediction.git
+   https://github.com/Framework12/UBER_Cab_price_prediction_model.git
 
 ## Navigate to the project directory
 cd cab-price-prediction
