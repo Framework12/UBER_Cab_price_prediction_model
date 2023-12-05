@@ -83,7 +83,7 @@ python train_model.py
 
 The model's performance can be evaluated using metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). The evaluation results are displayed during the model training process.
 
-## Result
+## Results
 The results of the model predictions, as well as evaluation metrics, are stored in the results directory.
 
 ## License
