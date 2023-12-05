@@ -52,3 +52,39 @@ You can install these dependencies using the provided `requirements.txt` file.
 
    ```bash
    git clone https://github.com/your-username/cab-price-prediction.git
+
+## Navigate to the project directory
+cd cab-price-prediction
+
+## Install the dependencies
+pip install -r requirements.txt
+
+## Usage
+
+Run the application
+python app.py
+
+Input the relevant details, such as distance, time, and weather conditions.
+Obtain the predicted cab fare.
+
+## Model Training
+
+If you want to train the model with your own data:
+
+Replace the existing dataset with your data in the data directory.
+
+Modify the data preprocessing and model training scripts as needed.
+
+Run the training script:
+
+python train_model.py
+
+## Evaluation
+
+The model's performance can be evaluated using metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). The evaluation results are displayed during the model training process.
+
+## Result
+The results of the model predictions, as well as evaluation metrics, are stored in the results directory.
+
+## License
+This project is licensed under the MIT License.
